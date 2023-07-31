@@ -1,0 +1,29 @@
+{
+  "name": "trello_clone_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "lint": "next lint",
+    "dev": "next dev -p 8080",
+    "start": "next start -p 8080"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.13.7",
+    "@mui/material": "^5.13.7",
+    "autoprefixer": "10.4.14",
+    "cookies-next": "^2.1.2",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.8",
+    "immutability-helper": "^3.1.1",
+    "next": "13.4.8",
+    "postcss": "8.4.24",
+    "react": "18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.2"
+  }
+}
